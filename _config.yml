@@ -1,11 +1,11 @@
 # Site settings
 author: Aaron Brady
-title: 
+title: Why did you decide to study Software Engineering?
 header-img: img/home-bg.png
 email: aleebrady@gmail.com
 copyright_name: Aaron Brady
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  aleebrady
