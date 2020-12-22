@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React-ion to React-Redux Project"
-date:       2020-12-22 18:37:47 +0000
+date:       2020-12-22 13:37:48 -0500
 permalink:  react-ion_to_react-redux_project
 ---
 
