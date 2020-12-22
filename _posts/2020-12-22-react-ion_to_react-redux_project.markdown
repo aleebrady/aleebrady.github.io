@@ -155,7 +155,7 @@ const Workouts = ({ props }) => {
 }
 ```
 
-After completing on things that needed and I wanted to be completed, I totally understand there's a lot more to learn about React, I will continue to learn more about hooks and context APIs, just for starters. My overall experience of this program has been humbling to say the least, but I have absored a wealth of knowledge which I could not fathom I could, but the learning will continue as I go. 
+After completing things that needed and I wanted to be completed, I totally understand there's a lot more to learn about React, I will continue to learn more about hooks and context APIs, just for starters. My overall experience of this program has been humbling to say the least, but I have absored a wealth of knowledge which I could not fathom I could, but the learning will continue as I go. 
 
 Thank you for reading. 
 
