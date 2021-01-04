@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Without Struggle There is No Progress"
-date:       2021-01-04 16:21:29 +0000
+date:       2021-01-04 11:21:30 -0500
 permalink:  without_struggle_there_is_no_progress
 ---
 
